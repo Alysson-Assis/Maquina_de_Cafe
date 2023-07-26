@@ -1,4 +1,4 @@
-# Maquina_de_Cafe
+# Maquina de Café
 
 - Criando módulo para facilitar a lógica
 - Mostrar os recursos da máquina - opcional 
